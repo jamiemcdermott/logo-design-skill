@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t"><title id="t">Flow concept A</title>
+<circle cx="128" cy="128" r="120" fill="#000"/>
+<g transform="rotate(-20 128 128)"><path d="M70 112 C118 112 138 80 186 80" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 176 C118 176 138 144 186 144" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
